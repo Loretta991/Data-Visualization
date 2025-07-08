@@ -14,3 +14,5 @@ This repository contains a Tableau workbook (.twbx) file titled `FinalProjectCom
 ## Description
 
 This workbook visualizes earthquake data, focusing on magnitudes greater than 6, for better understanding of global earthquake patterns.
+
+# Data-Visualization Urtl: https://github.com/Loretta991/Data-Visualization/blob/main/FinalProjectComplete_Template_Mag6PlusEarthquake.twbx
