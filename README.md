@@ -23,3 +23,10 @@ A global Tableau dashboard visualizing earthquakes >6.0 magnitude across time an
 - Earth science & geospatial patterns
 - Tableau practice for students
 - Visual storytelling with historical seismic data
+
+---
+## 👀 Return to Projects  
+[![Return to GitHub Projects](https://img.shields.io/badge/GitHub-Return_to_Projects-blue?logo=github)](https://github.com/Loretta991)
+
+## 👤 Return to LinkedIn  
+[![LinkedIn](https://img.shields.io/badge/Return%20to%20LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/elle-grey-8a9307299/)
