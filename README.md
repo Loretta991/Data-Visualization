@@ -1,17 +1,23 @@
-## 🌍 Earthquake Data Visualization (Magnitude 6+)
+## 🌍 Earthquake Dashboard – Magnitude 6+ (1900–2014)
 
-This project showcases a global dashboard of earthquakes >6.0 magnitude from 1900–2014.
+A global Tableau dashboard visualizing earthquakes >6.0 magnitude across time and continents.
 
-### 🔗 Live Interactive Dashboard (Tableau Public):
+### 🔗 Live Demo:
 [View on Tableau Public](https://public.tableau.com/app/profile/loretta.gray6623/viz/Mag6PlusEarthquakes1900-2014/EarthquakeDashboard)
 
-> ✅ No installation required – opens directly in browser  
-> 🔎 Filter by region, year, magnitude
-
-### 🛠 How to Open Locally:
-1. [Download Tableau Public](https://public.tableau.com/en-us/s/download/)
-2. Open `.twbx` file to explore filters, maps, stats
+> No Tableau install needed. Open in browser.
 
 ---
 
-📌 Useful for: Earth science education, spatial data analysis, Tableau training.
+### 📄 Downloadable Project Files
+
+- [`FinalProjectComplete_Template_Mag6PlusEarthquake.twbx`](./FinalProjectComplete_Template_Mag6PlusEarthquake.twbx) – Open in Tableau Desktop or Public
+- [`Earthquake_Presentation_Slides.pptx`](./Earthquake_Presentation_Slides.pptx) – Summary of dashboard findings
+- [`Data_Dictionary_Earthquake_1900_2014.pdf`](./Data_Dictionary_Earthquake_1900_2014.pdf) – Variable definitions and source documentation
+
+---
+
+### 🧠 Educational Use Cases
+- Earth science & geospatial patterns
+- Tableau practice for students
+- Visual storytelling with historical seismic data
