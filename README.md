@@ -10,6 +10,7 @@ A global Tableau dashboard visualizing earthquakes >6.0 magnitude across time an
 ---
 
 ### 📄 Downloadable Project Files
+📁 **Downloadable Files Coming Soon** – Presentation slides, data dictionary, and source code will be added shortly.
 
 - [`FinalProjectComplete_Template_Mag6PlusEarthquake.twbx`](./FinalProjectComplete_Template_Mag6PlusEarthquake.twbx) – Open in Tableau Desktop or Public  [-
 - [Final_Mag6PlusEarthquakes_Description.zip`](./Final_Mag6PlusEarthquakes_Description.zip)
