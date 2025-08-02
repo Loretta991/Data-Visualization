@@ -8,9 +8,6 @@ This project showcases a global dashboard of earthquakes >6.0 magnitude from 190
 > ✅ No installation required – opens directly in browser  
 > 🔎 Filter by region, year, magnitude
 
-### 📄 Downloadable Workbook:
-- [`FinalProjectComplete_Template_Mag6PlusEarthquake.twbx`](FinalProjectComplete_Template_Mag6PlusEarthquake.twbx)
-
 ### 🛠 How to Open Locally:
 1. [Download Tableau Public](https://public.tableau.com/en-us/s/download/)
 2. Open `.twbx` file to explore filters, maps, stats
