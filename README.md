@@ -1,19 +1,20 @@
-# Data-Visualization
-Mag6PlusEarthquakes 1900-2014
+## 🌍 Earthquake Data Visualization (Magnitude 6+)
 
+This project showcases a global dashboard of earthquakes >6.0 magnitude from 1900–2014.
 
-# Final Project - Earthquake Visualization
+### 🔗 Live Interactive Dashboard (Tableau Public):
+[View on Tableau Public](https://public.tableau.com/app/profile/loretta.gray6623/viz/Mag6PlusEarthquakes1900-2014/EarthquakeDashboard)
 
-This repository contains a Tableau workbook (.twbx) file titled `FinalProjectComplete_Template_Mag6PlusEarthquake.twbx`. 
+> ✅ No installation required – opens directly in browser  
+> 🔎 Filter by region, year, magnitude
 
-## How to Open
+### 📄 Downloadable Workbook:
+- [`FinalProjectComplete_Template_Mag6PlusEarthquake.twbx`](FinalProjectComplete_Template_Mag6PlusEarthquake.twbx)
 
-1. Download and install **[Tableau Public](https://public.tableau.com/s/)** (free) or **[Tableau Desktop](https://www.tableau.com/products/desktop)** (paid).
-2. Open the `.twbx` file with Tableau to view the earthquake data visualization.
+### 🛠 How to Open Locally:
+1. [Download Tableau Public](https://public.tableau.com/en-us/s/download/)
+2. Open `.twbx` file to explore filters, maps, stats
 
-## Description
+---
 
-This workbook visualizes earthquake data, focusing on magnitudes greater than 6, for better understanding of global earthquake patterns.
-
-# Data-Visualization Url copy cut and paste into tableau search window
-: https://github.com/Loretta991/Data-Visualization/blob/main/FinalProjectComplete_Template_Mag6PlusEarthquake.twbx
+📌 Useful for: Earth science education, spatial data analysis, Tableau training.
